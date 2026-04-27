@@ -1,4 +1,3 @@
     # Ice Cream Shop
 
-    ## Cone Ice cream
-    
+    ## Cone Ice cream flavour
