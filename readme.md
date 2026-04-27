@@ -6,3 +6,8 @@
 
         # Cone (crispy Biscof)
         # Chocolate
+        # chaco chips
+        # rainbow sprinkles
+        # Dip into Liquid chocolate
+        
+
