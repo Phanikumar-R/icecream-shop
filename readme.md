@@ -17,4 +17,5 @@
     # dry fruits
     # chocolate
     # malai
+    # honey
 
