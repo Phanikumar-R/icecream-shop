@@ -15,7 +15,7 @@
     # milk
     # sugar
     # dry fruits
-    # chocolate
+    # dark chocolate
     # malai
     # honey
 
